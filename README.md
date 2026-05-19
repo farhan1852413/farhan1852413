@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Farhan,a computer science major based in Banglore.
 
 <!--
 **farhan1852413/farhan1852413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
